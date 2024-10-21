@@ -23,7 +23,7 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, user authentication , payment mode and admin panel",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-    link:"#"
+    link:"https://tomato-frontend-do8k.onrender.com/"
   },
   {
     title: "Mobile Recharge App",
