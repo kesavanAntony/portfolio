@@ -39,7 +39,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML","Tailwind", "React",],
-    link:"#"
+    link:"https://kesavanportfolio.netlify.app"
   },
 ];
 
