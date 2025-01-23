@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/tomato.png";
 import project2 from "../assets/projects/razo.png";
 import project3 from "../assets/projects/portfolio.png";
+import project4 from "../assets/projects/imagify.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With a years of hands-on experience, I have honed my skills in front-end technologies like React js, as well as back-end technologies like Node.js, Express.js, MySQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -21,15 +22,23 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, user authentication , payment mode and admin panel",
+      "A fully functional e-commerce platform designed with features such as product listing, user authentication, an add to cart option, secure payment methods, and an admin panel for managing products, orders, and users.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
     link:"https://tomato-frontend-do8k.onrender.com/"
+  },
+  {
+    title: "Text to Images generator with AI",
+    image: project4,
+    description:
+      "An AI-powered application that generates high-quality images based on textual prompts. It leverages advanced machine learning models to understand text input and create visually appealing and contextually accurate outputs. The tool can be used for creative design, content generation, and more.",
+    technologies: ["HTML", "Tailwind", "Framer Motion" ,"React", "Node.js", "MongoDB"],
+    link:"https://imagify-frontend-34qv.onrender.com/"
   },
   {
     title: "Mobile Recharge App",
     image: project2,
     description:
-      "An application for managing Recharge Payment, with features such as recharge payment link generate through sms , curd operation, and wallet recharge.",
+      "An application designed for managing recharge payments, featuring functionalities such as generating recharge payment links via SMS, wallet recharge options, and full CRUD (Create, Read, Update, Delete) operations for managing user and payment data.",
     technologies: ["HTML", "CSS", "React", "Node.js", "Mysql"],
     link:"https://razo.co.in/login"
   },
