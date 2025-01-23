@@ -11,7 +11,7 @@ export const EXPERIENCES = [
   {
     year: "Oct 2023 - Present",
     role: "Full Stack Developer",
-    company: "Optimista India Pvt Ltd",
+    company: "Optimista Training & Development India Pvt Ltd",
     description: `Lead a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["HTML", "CSS", "Bootstrap", "Javascript", "React.js", "NodeJs", "Express", "MongoDB", "Mysql"],
   },
